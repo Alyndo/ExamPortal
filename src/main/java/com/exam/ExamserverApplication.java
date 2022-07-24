@@ -26,7 +26,7 @@ public class ExamserverApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("starting code");
+		//System.out.println("starting code");
 
 //		User user = new User();
 //		user.setFirstName("Alwyn");
